@@ -1,0 +1,24 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "symbols.hidesExplorerArrows": false,
+  "terminal.integrated.env.linux": {},
+  "window.menuBarVisibility": "hidden",
+  "workbench.colorTheme": "Dracula",
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "symbols",
+  "window.commandCenter": false,
+  "window.title": "${activeEditorShort}",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "git.enabled": false,
+  "css.lint.unknownAtRules": "ignore",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "workbench.startupEditor": "none"
+}
